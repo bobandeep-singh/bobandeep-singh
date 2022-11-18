@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @bobandeep-singh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- I am a software engineer with more than 6 years of experience
+- 🌱 I’m currently working as software engineer at Apple India
 
-<!---
-bobandeep-singh/bobandeep-singh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bobandeep-singh)](https://git.io/streak-stats)
