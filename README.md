@@ -24,3 +24,6 @@
 
 ### :fire: My Stats on GitHub:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bobandeep-singh)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobandeep-singh&layout=compact&theme=vision-friendly-dark)](https://github.com/bobandeep-singh/github-readme-stats)
+
