@@ -2,6 +2,15 @@
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500"/>
 </div>
 
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/bobandeep-singh/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=bobandeep-singh&style=flat-square&color=blue" alt=""/>
+</div>
 
 - 👋 Hi, I’m @bobandeep-singh
 - I am a software engineer with more than 6 years of experience
