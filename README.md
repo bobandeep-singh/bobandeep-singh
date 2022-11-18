@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500"/>
+</div>
+
+
 - 👋 Hi, I’m @bobandeep-singh
 - I am a software engineer with more than 6 years of experience
 - 🌱 I’m currently working as software engineer at Apple India
