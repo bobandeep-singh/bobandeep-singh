@@ -12,8 +12,8 @@
   <img src="https://komarev.com/ghpvc/?username=bobandeep-singh&style=flat-square&color=blue" alt=""/>
 </div>
 
-- 👋 Hi, I’m @bobandeep-singh
-- I am a software engineer with more than 6 years of experience
+- Hi, I’m @bobandeep-singh
+- I am a software engineer with more than 7 years of experience
 - 🌱 I’m currently working as software engineer at Apple India
 
 
